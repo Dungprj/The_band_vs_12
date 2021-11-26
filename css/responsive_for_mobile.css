@@ -8,9 +8,6 @@
     .s-col-full{
         width:100%;
     }
-    #slider{
-        margin-top: 46px;
-    }
     
     
     #header .menu-icon{
@@ -39,7 +36,7 @@
     #header .mobile-menu-bt,
     #header .search-btn {
     color:#fff;
-    padding:15px 21px;
+    padding:0 21px;
     float: right;
     position:absolute;
     top: 0px;
